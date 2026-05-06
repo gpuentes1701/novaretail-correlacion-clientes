@@ -34,9 +34,9 @@ Punto biserial
 V de Cramér
 
 📈 Principales hallazgos
-La **frecuencia de compra (compras_mes)** es el principal driver del ingreso.
-La **membresía premium** tiene una asociación positiva moderada, sugiriendo potencial para estrategias de upselling.
-La **satisfacción** muestra una relación débil con el ingreso.
+La **frecuencia de compra (compras_mes)** es el principal driver del ingreso. <br>
+La **membresía premium** tiene una asociación positiva moderada, sugiriendo potencial para estrategias de upselling. <br>
+La **satisfacción** muestra una relación débil con el ingreso. <br>
 Se identificaron correlaciones que no implican causalidad.
 
 ⚠️ Limitaciones
