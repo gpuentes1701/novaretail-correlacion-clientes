@@ -40,16 +40,19 @@ La **satisfacción** muestra una relación débil con el ingreso. <br>
 Se identificaron correlaciones que no implican causalidad.
 
 ⚠️ Limitaciones
-Correlación ≠ causalidad
-Variables externas no incluidas
+
+Correlación ≠ causalidad <br>
+Variables externas no incluidas <br>
 Posible sesgo en datos
 
 🚀 Recomendaciones
-Enfocar estrategias en aumentar frecuencia de compra
-Optimizar programa premium
+
+Enfocar estrategias en aumentar frecuencia de compra <br>
+Optimizar programa premium <br>
 Diseñar experimentos A/B para validar causalidad
 
 ▶️ Cómo ejecutar
-Descargar el repositorio
-Abrir el notebook en Jupyter o Google Colab
+
+Descargar el repositorio <br>
+Abrir el notebook en Jupyter o Google Colab <br>
 Ejecutar las celdas en orden
