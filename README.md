@@ -1,4 +1,4 @@
-##📊 NovaRetail+: Análisis de comportamiento de clientes
+📊 NovaRetail+: Análisis de comportamiento de clientes
 
 Análisis exploratorio y correlacional enfocado en identificar los principales drivers de ingreso en clientes de una plataforma e-commerce en Latinoamérica.
 
